@@ -1,0 +1,1 @@
+Taken from https://github.com/crobird/wave_markers and renamed, as it provided a good interface into wave files
