@@ -17,7 +17,7 @@ If you provide `detunes_across_octaves.py` a single-cycle waveform (or any audio
 You need a copy of python3 with sox and numpy installed. Look at the help info on `detunes_across_octaves.py` for more info on arguments. Or just look in the code.
 
 # Audio Samples
-I have generated some "detune packs" for quick use if you don't want to run the code. These were pulled from [a variation of the AKWF single-cycle waveforms](https://web.archive.org/web/20170827193039/http://www.inspektorgadjet.com/download/inspektor_gadjet-ak_waveforms__slices/?wpdmdl=1161), which are tuned to C
+I have generated some "detune packs" for quick use if you don't want to run the code. See the `Audio Samples` folder. These were pulled from [a variation of the AKWF single-cycle waveforms](https://web.archive.org/web/20170827193039/http://www.inspektorgadjet.com/download/inspektor_gadjet-ak_waveforms__slices/?wpdmdl=1161), which are tuned to C
 
 # Future
 - Going down in semitones from the base waveform seems to sound crunchy. There might be a better way to interpolate.
